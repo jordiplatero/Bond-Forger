@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jordiplatero
+- 👋🏻 Hi, I’m @jordiplatero
 - 👀 I’m interested in movies and anime
 - 🌱 I’m currently learning HTML, CSS, and JavaScript
 - 💞️ I’m looking to collaborate on ...
